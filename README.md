@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="128" align="center" src="/assets/logo/300x300.png">
+  <img width="128" align="center" src="/assets/logo/300x300.png" alt="logo image here">
 </p>
 <h1 align="center">
   DevToys
